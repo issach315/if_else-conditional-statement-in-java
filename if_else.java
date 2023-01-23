@@ -16,6 +16,9 @@ public static void main(String[] args)
        {
             System.out.println("your not eligiblr for voting your age is below 18 years");        
      }
+  /*
+  1. we are importing the util package for Scanner class, for taking the input from the user(console) 
+  */
            
 }
 }
