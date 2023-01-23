@@ -5,8 +5,10 @@ public static void main(String[] args)
  {Scanner sc = new Scanner(System.in);
     System.out.println("enter your Age for voting ");
      int age = sc.nextInt();
+  // supose user enterd the age is 17 years 
+  
 
-     if (age>=18)
+     if (age>=18)// if checks the condition 17 is grater than or equal to the age . in this case condition false 
       {
 
         System.out.println("your eligible for voting ");
