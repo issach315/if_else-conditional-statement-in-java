@@ -7,6 +7,11 @@ public static void main(String[] args)
      int age = sc.nextInt();
   // supose user enterd the age is 17 years 
   
+  /*
+  1. if condition true the if block statement is executed 
+  2.rather else statement was printed.
+  */
+  
 
      if (age>=18)// if checks the condition 17 is grater than or equal to the age . in this case condition false 
       {
